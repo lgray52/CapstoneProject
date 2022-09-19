@@ -1,7 +1,8 @@
 # Capstone Project
 
 
-## Table
+## Table of Contents
+* [OnShape Design]
 
 ## Onshape Design 
 
