@@ -2,7 +2,7 @@
 
 
 ## Table of Contents
-* [OnShape Design]
+* [OnShape Design](https://github.com/lgray52/CapstoneProject/blob/main/README.md#onshape-design)
 
 ## Onshape Design 
 
@@ -15,3 +15,5 @@
 ## References and resources
 
 * Video release [speed tracker](https://physlets.org/tracker/)
+
+[Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
