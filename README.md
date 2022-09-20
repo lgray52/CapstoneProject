@@ -4,6 +4,10 @@
 ## Table of Contents
 * [Onshape Design](https://github.com/lgray52/CapstoneProject/blob/main/README.md#onshape-design)
 
+
+## Planning 
+
+
 ## Purchased parts
 
 * 2x 1in diameter ball bearing
