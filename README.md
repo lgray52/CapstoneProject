@@ -1,12 +1,25 @@
 # Capstone Project
-
+<b>Lucy Gray and Harriet Novak</b>
 
 ## Table of Contents
 * [Onshape Design](https://github.com/lgray52/CapstoneProject/blob/main/README.md#onshape-design)
 
 
 ## Planning 
+[Project Proposal](https://docs.google.com/presentation/d/1A54yDAdwB12cYQLXnSLfvfrEEuOk4ihk-hy-DLZa5EU/edit?usp=sharing)
 
+### Notes
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/IMG-0690.jpg" height="600">
+
+### Initial Timeline
+
+* <b>Mid-October:</b> Onshape model complete and mini prototype
+* <b>Mid-November:</b> Frame built
+* <b>End of December:</b> Arm built
+* <b>End of February:</b> Counterweight working with arm and frame
+* <b/>By April:</b> Sling working successfully
+* <b>By end of May:</b> Projectile working
 
 ## Purchased parts
 
@@ -15,17 +28,27 @@
 * 4x heavy duty caster wheels 
 * varying weight plates: initially 2x 20lb plates
 
+# Trebuchet
 ## Onshape Design 
+[Link to Onshape document](https://cvilleschools.onshape.com/documents/b8765a261cadb44dcc0a336f/w/460002218d581b442cca053e/e/edba871aaf70a30a2c2fe965?renderMode=0&uiState=632dd17a483c184e28f44d74)
 
-### Imports and References
-
-* Reference for [axle](https://www.lowes.com/pd/Southland-Pipe-3-4-in-x-36-in-150-PSI-Threaded-Galvanized-Pipe/3357860)
-* Video release [speed tracker](https://physlets.org/tracker/)
-
-#### CAD imports
+### CAD imports
 * Caster wheel CAD [file](https://www.mcmaster.com/caster-wheels/cart-smart-casters-with-rubber-wheels/)
 * Ball bearing CAD [file](https://www.mcmaster.com/bearings/ball-bearings/ball-bearings-8/); for 1in diameter pipe R16
 * Stop collar CAD [file](https://www.mcmaster.com/stop-collars/extra-grip-clamping-shaft-collars/); for 1in diameter pipe R16
 
+### References
+
+* Reference for [axle](https://www.lowes.com/pd/Southland-Pipe-3-4-in-x-36-in-150-PSI-Threaded-Galvanized-Pipe/3357860)
+* Video release [speed tracker](https://physlets.org/tracker/)
 
 [Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
+
+## Frame
+
+## Arm and Counterweight
+
+## Sling
+
+
+# Projectile
