@@ -8,6 +8,7 @@
 ## Planning 
 [Project Proposal](https://docs.google.com/presentation/d/1A54yDAdwB12cYQLXnSLfvfrEEuOk4ihk-hy-DLZa5EU/edit?usp=sharing)
 
+<b>Client:</b> Mr Manning
 ### Notes
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/IMG-0690.jpg" height="600">
