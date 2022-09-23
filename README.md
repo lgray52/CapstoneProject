@@ -37,6 +37,11 @@
 * Ball bearing CAD [file](https://www.mcmaster.com/bearings/ball-bearings/ball-bearings-8/); for 1in diameter pipe R16
 * Stop collar CAD [file](https://www.mcmaster.com/stop-collars/extra-grip-clamping-shaft-collars/); for 1in diameter pipe R16
 
+### Notes for document
+
+* Material used for 2x4s is birch 
+* Actual dimensions for 2 x 4 is 1.5 x 3.5in which was accounted for in design
+
 ### References
 
 * Reference for [axle](https://www.lowes.com/pd/Southland-Pipe-3-4-in-x-36-in-150-PSI-Threaded-Galvanized-Pipe/3357860)
