@@ -9,6 +9,15 @@
 [Project Proposal](https://docs.google.com/presentation/d/1A54yDAdwB12cYQLXnSLfvfrEEuOk4ihk-hy-DLZa5EU/edit?usp=sharing)
 
 <b>Client:</b> Mr Manning
+
+First meeting: 09.07.22
+
+<b>Client requirements:</b>
+* must be mobile
+* width less than a meter
+* arm removable to reduce height
+* has to fit through the door.  
+
 ### Notes
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/IMG-0690.jpg" height="600">
@@ -55,6 +64,10 @@
 #### Initial design
 
 Floating A-frame from pine 2x4 boards. Frame approximately 2m high excluding height of arm. 
+
+Onshape Model: 09.27.22 : approximately 140lbs, 64in
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/t1.PNG" height="200"><img src="https://github.com/lgray52/CapstoneProject/blob/main/t2.PNG" height="200"><img src="https://github.com/lgray52/CapstoneProject/blob/main/t3.PNG" height="200">
 
 ## Arm and Counterweight
 
