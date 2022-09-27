@@ -31,11 +31,11 @@
   </details>
 <details>
 <summary><b><a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#projectile">Projectile</a></b></summary>
+</details>
 
+## Planning + Proposal
 
-
-## Planning 
-[Project Proposal](https://docs.google.com/presentation/d/1A54yDAdwB12cYQLXnSLfvfrEEuOk4ihk-hy-DLZa5EU/edit?usp=sharing)
+### [Project Proposal](https://docs.google.com/presentation/d/1A54yDAdwB12cYQLXnSLfvfrEEuOk4ihk-hy-DLZa5EU/edit?usp=sharing)
 
 <b>Client:</b> Mr Manning
 
