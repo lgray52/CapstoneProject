@@ -52,6 +52,10 @@
 
 ## Frame
 
+#### Initial design
+
+Floating A-frame from pine 2x4 boards. Frame approximately 2m high excluding height of arm. 
+
 ## Arm and Counterweight
 
 ## Sling
