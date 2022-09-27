@@ -66,6 +66,7 @@ First meeting: 09.07.22
 * 4x 1in diameter stop collar
 * 4x heavy duty caster wheels 
 * varying weight plates: initially 2x 20lb plates
+* 4x steel eyebolt with nut for lifting
 
 # Trebuchet
 ## Onshape Design 
@@ -75,6 +76,7 @@ First meeting: 09.07.22
 * Caster wheel CAD [file](https://www.mcmaster.com/caster-wheels/cart-smart-casters-with-rubber-wheels/)
 * Ball bearing CAD [file](https://www.mcmaster.com/bearings/ball-bearings/ball-bearings-8/); for 1in diameter pipe R16
 * Stop collar CAD [file](https://www.mcmaster.com/stop-collars/extra-grip-clamping-shaft-collars/); for 1in diameter pipe R16
+* Screw Eye CAD [file](https://www.mcmaster.com/3016T14/): 
 
 ### Notes for document
 
