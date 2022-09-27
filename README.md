@@ -2,7 +2,36 @@
 <b>Lucy Gray and Harriet Novak</b>
 
 ## Table of Contents
-* [Onshape Design](https://github.com/lgray52/CapstoneProject/blob/main/README.md#onshape-design)
+
+<details>
+<summary><b> <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#planning">Planning + Proposal</a> </b></summary>
+
+
+<br><a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#notes">☢ Notes</a>
+
+<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#initial-timeline">☢ Timeline</a>
+
+</details>  
+
+<details>
+<summary><b> <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#trebuchet">Trebuchet</a> </b></summary>
+
+ <br> <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#onshape-design">☢ Onshape Design</a>
+
+<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#cad-imports">☢ CAD Imports</a>
+
+<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#references">☢ References</a>
+
+<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#frame">☢ Frame</a>
+
+<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#arm-and-counterweight">☢ Arm + Counterweight</a>
+
+<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#sling">☢ Sling</a>
+
+  </details>
+<details>
+<summary><b><a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#projectile">Projectile</a></b></summary>
+
 
 
 ## Planning 
