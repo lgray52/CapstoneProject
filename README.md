@@ -92,6 +92,8 @@ First meeting: 09.07.22
 
 [Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
 
+## Prototype
+
 ## Frame
 
 #### Initial design
@@ -108,6 +110,6 @@ Onshape Model: 09.27.22 : approximately 140lbs, 64in
 
 ## Weekly Reports
 
-<b>10.3-10.7</b>:
+<b>10.3-10.7</b>: We built a 15:1 scale prototype out of popsicle sticks.
 
 # Projectile
