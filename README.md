@@ -28,6 +28,8 @@
 
 <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#sling">☢ Sling</a>
 
+<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#weekly-reports">☢ Weekly Report</a>
+
   </details>
 <details>
 <summary><b><a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#projectile">Projectile</a></b></summary>
