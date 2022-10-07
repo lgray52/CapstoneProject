@@ -93,6 +93,19 @@ First meeting: 09.07.22
 [Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
 
 ## Prototype
+### P. I
+
+Our first prototype is a 15:1 model. Despite popsicle sticks not being exactly proportional to the 2x4s we will use for the final product, we used our Onshape model to scale the dimensions as accurately as possible. 
+
+<b>Dimensions:</b>
+
+Base: 11.8cm x 7.2cm 
+
+Height of frame : 11.1 cm
+
+Height with arm fully extended: 21.8 cm
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/prototype1.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/prototype2.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/prototype3.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/prototype4.jpg" height="300">
 
 ## Frame
 
@@ -102,7 +115,7 @@ Floating A-frame from pine 2x4 boards. Frame approximately 2m high excluding hei
 
 Onshape Model: 09.27.22 : approximately 140lbs, 64in
 
-<img src="https://github.com/lgray52/CapstoneProject/blob/main/t1.PNG" height="200"><img src="https://github.com/lgray52/CapstoneProject/blob/main/t2.PNG" height="200"><img src="https://github.com/lgray52/CapstoneProject/blob/main/t3.PNG" height="200">
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/t1.PNG" height="300"><img src="https://github.com/lgray52/CapstoneProject/blob/main/t2.PNG" height="300"><img src="https://github.com/lgray52/CapstoneProject/blob/main/t3.PNG" height="300">
 
 ## Arm and Counterweight
 
