@@ -17,6 +17,8 @@
 <summary><b> <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#trebuchet">Trebuchet</a> </b></summary>
 
  <br> <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#onshape-design">☢ Onshape Design</a>
+ 
+ <a href="https://github.com/lgray52/CapstoneProject/edit/main/README.md#prototype">☢ Prototype</a>
 
 <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#cad-imports">☢ CAD Imports</a>
 
@@ -82,7 +84,7 @@ First meeting: 09.07.22
 
 ### Notes for document
 
-* Material used for 2x4s is birch 
+* Material used for 2x4s is birch instead of the pine that will be used in real life
 * Actual dimensions for 2 x 4 is 1.5 x 3.5in which was accounted for in design
 
 ### References
