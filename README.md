@@ -93,7 +93,6 @@ First meeting: 09.07.22
 [Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
 
 ## Prototype
-### P. I
 
 Our first prototype is a 15:1 model. Despite popsicle sticks not being exactly proportional to the 2x4s we will use for the final product, we used our Onshape model to scale the dimensions as accurately as possible. 
 
@@ -106,6 +105,14 @@ Height of frame : 11.1 cm
 Height with arm fully extended: 21.8 cm
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/prototype1.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/prototype2.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/prototype3.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/prototype4.jpg" height="300">
+
+We used a battery as the counterweight and attached it to the arm. The projectile was a small ball of paper covered in hot glue. One issue with prototyping with popsicle sticks was getting the arms of the frame to be exactly 30 degrees from the vertical. Because of this, we had to adjust the base dimensions and therefore they are not directly proportional to the base size we will use for the actual trebuchet. 
+
+Our initial sliphook (a piece of wire) was too long which caused the sling to release too late. Our final sliphook was much shorter and was at about a 45 degree angle. The key was getting the sling to release before the arm was completely vertical at 0 degrees. 
+
+We also had issues with the sling, because the pouch to hold the projectile was made of paper. Because the pouch did not really form around the projectile, it would slip out immediately. This problem should be solved with the actual trebuchet because the pouch will be made out of cloth. 
+
+With the final product, our plan is to use stop collars to stop the trebuchet arm from moving horizontally along the axis. For the prototype, we put some hot glue on the axle (a q-tip stick) to minimize walking. 
 
 ## Frame
 
