@@ -110,6 +110,6 @@ Onshape Model: 09.27.22 : approximately 140lbs, 64in
 
 ## Weekly Reports
 
-<b>10.3-10.7</b>: We built a 15:1 scale prototype out of popsicle sticks.
+<b>10.3.22 - 10.7.22</b>: We built a 15:1 scale [prototype](https://github.com/lgray52/CapstoneProject/blob/main/README.md#prototype) out of popsicle sticks. Although we were using popsicle sticks, which don't directly translate to 2x4s, we used our onshape model to try and make the dimensions as accurate as possible. The end result launched a small projectile about 25 in. Our main issue was adjusting the slip hook so the sling would release at the correct time (at approx 45 degrees). We used a battery as the counterweight, so we tried using a slightly smaller counterweight, but this caused additional issues because it would not stay in the sling. This problem should be less of an issue with the full scale trebuchet, because we will be using cloth for the sling instead of paper, which didn't form around the projectile. 
 
 # Projectile
