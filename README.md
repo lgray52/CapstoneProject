@@ -68,10 +68,6 @@ First meeting: 09.07.22
 * varying weight plates: initially 2x 20lb plates
 * 4x steel eyebolt with nut for lifting
 
-## Weekly Reports
-
-<b>10.3-10.7</b>:
-
 # Trebuchet
 ## Onshape Design 
 [Link to Onshape document](https://cvilleschools.onshape.com/documents/b8765a261cadb44dcc0a336f/w/460002218d581b442cca053e/e/edba871aaf70a30a2c2fe965?renderMode=0&uiState=632dd17a483c184e28f44d74)
@@ -108,5 +104,8 @@ Onshape Model: 09.27.22 : approximately 140lbs, 64in
 
 ## Sling
 
+## Weekly Reports
+
+<b>10.3-10.7</b>:
 
 # Projectile
