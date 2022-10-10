@@ -126,6 +126,22 @@ Onshape Model: 09.27.22 : approximately 140lbs, 64in
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/t1.PNG" height="300"><img src="https://github.com/lgray52/CapstoneProject/blob/main/t2.PNG" height="300"><img src="https://github.com/lgray52/CapstoneProject/blob/main/t3.PNG" height="300">
 
+### Purchased
+
+Plywood base: 31.5 x 59.25 in (0.75 in thick)
+Heavy duty caster wheels (x4)
+
+#### Lumber (2x4)
+
+* 60 in (X2)
+* 59.25 in (x2)
+* 55.75 in (x4)
+* 34.5 in (x2)
+* 59.25 in (x2)
+* 31.5 in (x2)
+* 34.5 in (x1)
+
+
 ## Arm and Counterweight
 
 ## Sling
