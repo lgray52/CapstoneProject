@@ -71,6 +71,7 @@ First meeting: 09.07.22
 * 4x heavy duty caster wheels 
 * varying weight plates: initially 2x 20lb plates
 * 4x steel eyebolt with nut for lifting
+* Rubber sheet/piece of rubber
 
 # Trebuchet
 ## Onshape Design 
