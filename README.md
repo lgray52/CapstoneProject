@@ -129,6 +129,7 @@ Onshape Model: 09.27.22 : approximately 140lbs, 64in
 ### Purchased
 
 Plywood base: 31.5 x 59.25 in (0.75 in thick)
+
 Heavy duty caster wheels (x4)
 
 #### Lumber (2x4)
