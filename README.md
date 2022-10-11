@@ -143,6 +143,21 @@ Heavy duty caster wheels (x4)
 * 31.5 in (x2)
 * 34.5 in (x1)
 
+### Gusset Plates
+
+#### Use + Design on Onshape
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/gusset.PNG" height="300">
+
+We used 1/4 in plywood, cut with table saw and cut saw. We had to shorten them from the initial planned length in order to use plywood that was already available in the lab. 
+
+Here is Lucy using the cut saw: 
+
+ <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-8596.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-8597.jpg" height="300">
+
+<b>Final Product</b>
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-0898.jpg" height="300">
 
 ## Arm and Counterweight
 
