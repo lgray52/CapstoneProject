@@ -159,6 +159,10 @@ Here is Lucy using the cut saw:
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-0898.jpg" height="300">
 
+### Plywood base
+
+Our planned dimensions for the base are 31.5 x 59.25 in. We found that plywood was very expensive and buying a 4 x 8 ft piece of 3/4 in plywood would be more than half our budget. The revised plan is to use a 3 x 4 ft piece of plywood and then another smaller piece glued together and add more braces on the bottom. We should be able to find those sizes in the lab
+
 ## Arm and Counterweight
 
 ## Sling
