@@ -173,4 +173,6 @@ Our planned dimensions for the base are 31.5 x 59.25 in. We found that plywood w
 
 <b> 10.10.22 - 10.14.22</b>: This week, we cut the gussets for the full scale trebuchet and finalized our cut list. We talked to our teachers about how we are going to get materials for the trebuchet from Lowe's while spending within the school's system, and had conversations about using materials from the lab. This led us to modify our design slightly to include support connectors so that we can use multiple pieces of plywood for the base, since the size of plywood sheet we would've needed for the base would have been very expensive. Our estimate for costs of wood and fasteners is about $60 to $65. 
 
+<b> 10.17.22 - 10.21.22</b> We got our wood from Lowes and cut it to the sizes we needed. We also got screws and a mahogany stain, which was approved by Mr. Manning.  Our total cost for fasteners, wood, and stain was about $83. We were able to cut all of our 2x4s and plywood, and have begun sanding and staining our pieces. The stain needs to set for 5 hours per coat and needs 2 coats, so the staining process will probably take a couple more classes, especially as we are working in the back hallway. We also might have to stain outside in the future, which will take significant amounts of time to move pieces in and out. 
+
 # Projectile
