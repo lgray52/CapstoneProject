@@ -175,4 +175,6 @@ Our planned dimensions for the base are 31.5 x 59.25 in. We found that plywood w
 
 <b> 10.17.22 - 10.21.22</b>: We got our wood from Lowes and cut it to the sizes we needed. We also got screws and a mahogany stain, which was approved by Mr. Manning.  Our total cost for fasteners, wood, and stain was about $83. We were able to cut all of our 2x4s and plywood, and have begun sanding and staining our pieces. The stain needs to set for 5 hours per coat and needs 2 coats, so the staining process will probably take a couple more classes, especially as we are working in the back hallway. We also might have to stain outside in the future, which will take significant amounts of time to move pieces in and out. 
 
+<b> 10.24.22 - 10.26.22</b>: We continued staining this week. All of our wood has now been sanded, so we are ready to stain the remainder of our pieces. Since it was only a three day week, we could only get so much done in two classes. 
+
 # Projectile
