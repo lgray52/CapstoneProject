@@ -177,4 +177,6 @@ Our planned dimensions for the base are 31.5 x 59.25 in. We found that plywood w
 
 <b> 10.24.22 - 10.26.22</b>: We continued staining this week. All of our wood has now been sanded, so we are ready to stain the remainder of our pieces. Since it was only a three day week, we could only get so much done in two classes. 
 
+<b> 10.31.22 - 11.4.22</b>: This week we were able to start building the frame of the trebuchet. The base has been assembled apart from the wheels, and the upright supports have been put together and stand on their own. We made a slight change to the base design, and are now planning on including triangular support blocks that will attach the base to the vertical braces, improving stability and giving the vertical pieces a stronger connection to the base. All staining has been finished. Next week, we will continue to add to the frame and work on attaching it to the base. 
+
 # Projectile
