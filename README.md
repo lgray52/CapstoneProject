@@ -141,7 +141,7 @@ Floating A-frame from pine 2x4 boards. Frame approximately 2m high excluding hei
 
 Onshape Model: 09.27.22 : approximately 140lbs, 64in
 
-<img src="https://github.com/lgray52/CapstoneProject/blob/main/t1.PNG" height="300"><img src="https://github.com/lgray52/CapstoneProject/blob/main/t2.PNG" height="300"><img src="https://github.com/lgray52/CapstoneProject/blob/main/t3.PNG" height="300">
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/t1.PNG" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/t2.PNG" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/t3.PNG" height="300">
 
 ### Purchased
 
