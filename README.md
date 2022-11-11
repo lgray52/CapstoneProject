@@ -119,6 +119,22 @@ With the final product, our plan is to use stop collars to stop the trebuchet ar
 
 ## Frame
 
+We finished staining all of our pieces. It took us a long time because the stain had to dry over night and we couldn't do all sides at once. We also had to work outside on the loading dock because of the fumes from the wood stain. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-08%20at%208.39.23%20PM.png" height="300">
+
+There is always some slight warping in 2x4s but we used a square frequently to check that all the angles were as close to 90 degrees as possible. We started with an H shape to get the foundation of the trebuchet frame before we attached it to the base. Shown below is a picture of the frame H standing by itself. We used a hack saw to cut through the pipe for the axle, which was time and labor-consuming. For other pipe pieces we need, we may end up using the chop saw instead. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-08%20at%208.39.36%20PM.png" height="300">
+
+The screws we got were 3in and went through both 2x4s, so the tip of the screw poked out on the other side. We had to use the dremel to remove them. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-11%20at%2012.21.08%20PM.png" height="300">
+
+The lengths of the angled pieces were not perfect, as the chop saw was not easy to get exact angles, but it fit together well. The frame is very stable in all directions. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-11%20at%2012.21.19%20PM.png" height="300">
+
 #### Initial design
 
 Floating A-frame from pine 2x4 boards. Frame approximately 2m high excluding height of arm. 
@@ -162,6 +178,10 @@ Here is Lucy using the chop saw:
 ### Plywood base
 
 Our planned dimensions for the base are 31.5 x 59.25 in. We found that plywood was very expensive and buying a 4 x 8 ft piece of 3/4 in plywood would be more than half our budget. The revised plan is to use a 3 x 4 ft piece of plywood and then another smaller piece glued together and add more braces on the bottom. We should be able to find those sizes in the lab
+
+### Frame
+
+
 
 ## Arm and Counterweight
 
