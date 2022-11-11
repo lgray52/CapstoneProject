@@ -179,4 +179,6 @@ Our planned dimensions for the base are 31.5 x 59.25 in. We found that plywood w
 
 <b> 10.31.22 - 11.4.22</b>: This week we were able to start building the frame of the trebuchet. The base has been assembled apart from the wheels, and the upright supports have been put together and stand on their own. We made a slight change to the base design, and are now planning on including triangular support blocks that will attach the base to the vertical braces, improving stability and giving the vertical pieces a stronger connection to the base. All staining has been finished. Next week, we will continue to add to the frame and work on attaching it to the base. 
 
+<b> 11.9.22 - 11.11.22</b>: This week continued building the frame of the trebuchet, and got everything attached to the base. We are basically done with the frame, we just have to attach the gussets. We are ahead of schedule and will likely start working on the arm next week. We only had two days to work this week, but we got a lot done. 
+
 # Projectile
