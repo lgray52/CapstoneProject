@@ -135,6 +135,11 @@ The lengths of the angled pieces were not perfect, as the chop saw was not easy 
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-11%20at%2012.21.19%20PM.png" height="300">
 
+The casters were attached last, and the trebuchet is very easy to move around.
+
+<img src="images/trebuchet_wheels.jpg" height="300">
+
+
 #### Initial design
 
 Floating A-frame from pine 2x4 boards. Frame approximately 2m high excluding height of arm. 
