@@ -201,4 +201,6 @@ Our planned dimensions for the base are 31.5 x 59.25 in. We found that plywood w
 
 <b> 11.9.22 - 11.11.22</b>: This week continued building the frame of the trebuchet, and got everything attached to the base. We are basically done with the frame, we just have to attach the gussets. We are ahead of schedule and will likely start working on the arm next week. We only had two days to work this week, but we got a lot done. 
 
+<b> 11.14.22 - 11.18.22</b>: We attached the gussets and put the wheels on the trebuchet. Thankfully, it fits through the door! We got casters from theater tech, but were only able to find three matching ones, so the trebuchet is a little bit unstable at the moment. We are hoping to get similarly sized wheels to put on the back, and we have ordered bearings for the arm. These will hopefully arrive sometime next week, but we are essentially done with the frame, putting us right on schedule. 
+
 # Projectile
