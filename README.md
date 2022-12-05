@@ -208,4 +208,8 @@ Our planned dimensions for the base are 31.5 x 59.25 in. We found that plywood w
 
 <b> 11.14.22 - 11.18.22</b>: We attached the gussets and put the wheels on the trebuchet. Thankfully, it fits through the door! We got casters from theater tech, but were only able to find three matching ones, so the trebuchet is a little bit unstable at the moment. We are hoping to get similarly sized wheels to put on the back, and we have ordered bearings for the arm. These will hopefully arrive sometime next week, but we are essentially done with the frame, putting us right on schedule. 
 
+<b> 11.28.22 - 12.2.22</b>: This week we got the bearings into the arm. This took slightly longer than expected. We drilled 2in holes into a piece of test wood, which fit the bearings very wel once the wood cooled. However, when we drilled holes of the same diameter into the arm itself, the bearings slid right through. We ended up having to glue them, and printed a small spacer to keep them from sliding towards the center of the beam. We also found that the piping was only nominally the size of the interior diameter of the bearing, and in reality was slightly narrower. The offset was a little less than 1mm in radius, so we printed inserts. Using these, we were able to friction fit the pieces on and fix the arm on its axis very well. We also cut small pieces of plywood to secure the bearings, so all we have left to do to finish the arm is attach those and stain it. 
+
+
+
 # Projectile
