@@ -28,7 +28,7 @@
 
 <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#arm-and-counterweight">☢ Arm + Counterweight</a>
 
-<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#sling">☢ Sling</a>
+<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#sling">☢ Release Mechanism + Sling</a>
 
 <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#weekly-reports">☢ Weekly Report</a>
 
@@ -119,27 +119,6 @@ With the final product, our plan is to use stop collars to stop the trebuchet ar
 
 ## Frame
 
-We finished staining all of our pieces. It took us a long time because the stain had to dry over night and we couldn't do all sides at once. We also had to work outside on the loading dock because of the fumes from the wood stain. 
-
-<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-08%20at%208.39.23%20PM.png" height="300">
-
-There is always some slight warping in 2x4s but we used a square frequently to check that all the angles were as close to 90 degrees as possible. We started with an H shape to get the foundation of the trebuchet frame before we attached it to the base. Shown below is a picture of the frame H standing by itself. We used a hack saw to cut through the pipe for the axle, which was time and labor-consuming. For other pipe pieces we need, we may end up using the chop saw instead. 
-
-<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-08%20at%208.39.36%20PM.png" height="300">
-
-The screws we got were 3in and went through both 2x4s, so the tip of the screw poked out on the other side. We had to use the dremel to remove them. 
-
-<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-11%20at%2012.21.08%20PM.png" height="300">
-
-The lengths of the angled pieces were not perfect, as the chop saw was not easy to get exact angles, but it fit together well. The frame is very stable in all directions. 
-
-<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-11%20at%2012.21.19%20PM.png" height="300">
-
-The casters were attached last, and the trebuchet is very easy to move around.
-
-<img src="images/trebuchet_wheels.jpg" height="300">
-
-
 #### Initial design
 
 Floating A-frame from pine 2x4 boards. Frame approximately 2m high excluding height of arm. 
@@ -148,7 +127,7 @@ Onshape Model: 09.27.22 : approximately 140lbs, 64in
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/t1.PNG" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/t2.PNG" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/t3.PNG" height="300">
 
-### Purchased
+### Parts
 
 Plywood base: 31.5 x 59.25 in (0.75 in thick)
 
@@ -163,6 +142,7 @@ Heavy duty caster wheels (x4)
 * 59.25 in (x2)
 * 31.5 in (x2)
 * 34.5 in (x1)
+
 
 ### Gusset Plates
 
@@ -180,17 +160,55 @@ Here is Lucy using the chop saw:
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-0898.jpg" height="300">
 
-### Plywood base
+### Body
 
 Our planned dimensions for the base are 31.5 x 59.25 in. We found that plywood was very expensive and buying a 4 x 8 ft piece of 3/4 in plywood would be more than half our budget. The revised plan is to use a 3 x 4 ft piece of plywood and then another smaller piece glued together and add more braces on the bottom. We should be able to find those sizes in the lab
 
-### Frame
+We finished staining all of our pieces. It took us a long time because the stain had to dry over night and we couldn't do all sides at once. We also had to work outside on the loading dock because of the fumes from the wood stain. 
 
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-08%20at%208.39.23%20PM.png" height="300">
 
+There is always some slight warping in 2x4s but we used a square frequently to check that all the angles were as close to 90 degrees as possible. We started with an H shape to get the foundation of the trebuchet frame before we attached it to the base. Shown below is a picture of the frame H standing by itself. We used a hack saw to cut through the pipe for the axle, which was time and labor-consuming. For other pipe pieces we need, we may end up using the chop saw instead. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-08%20at%208.39.36%20PM.png" height="300">
+
+The screws we got were 3in and went through both 2x4s, so the tip of the screw poked out on the other side. We had to use the dremel to remove them. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-11%20at%2012.21.08%20PM.png" height="300">
+
+The lengths of the angled pieces were not perfect, as the chop saw was not easy to get exact angles, but it fit together well. The frame is very stable in all directions. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-11-11%20at%2012.21.19%20PM.png" height="300">
+
+The casters were attached last, and the trebuchet is very easy to move around. We used two 5 in casters in the back and two 5 in wheels in the front. We decided to put the wheels in the front, because when it lauches it will move a bit, and we dont want it to be able to move in more than one direction. 
+
+<img src="images/trebuchet_wheels.jpg" height="300">
 
 ## Arm and Counterweight
 
-## Sling
+We had some issues with our materials which took awhile to figure out. The ball bearings we ordered were slightly too big for the axle, so we had to 3D print inserts so that the bearings would be friction fit to the pipe. The fit was very tight and we had to hammer it on. The hole cutter we used with the drill press also cut a hole that was slightly too large, so we ended up having to glue the bearings into the arm. To give the bearings extra support, we cut gussetts out of plywood and drilled them into the arm. Bottom left is the part in onshape, and bottom right is the part in use. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-12-06%20at%2011.19.58%20AM.png" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_16853761.JPG" height="300"> 
+
+Because we didn't have a substantial amount of money left in our budget, we decided to 3D stop collars instead of buying them. Our initial design is pictured below. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-12-06%20at%2011.08.21%20AM.png" height="200">
+
+We used D rings to attach the ropes going from the frame to the arm. Our plan is for the ropes to prevent the arm from moving 180 degrees. Once it reaches 90 degrees, the ropes will become taut and the arm will be brought back down. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67172609.JPG" height="300">
+
+## Release mechanism + Sling
+
+### Sliphook and release
+
+Our initial design in Onshape for the sliphook is pictured below. We designed it such that the angle of the sliphook can be changed to modify the launch. Otherwise, it would be much more difficult to make small changes once we are in the launch-test phase. Our plan is to cut the plate out of plywood and 3D print the actual hook.
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-12-06%20at%2011.30.30%20AM.png" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202022-12-06%20at%2011.30.43%20AM.png" height="300">
+
+We made our initial cut out of 5mm plywood. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67163393.JPG" height="300">
 
 ## Weekly Reports
 
