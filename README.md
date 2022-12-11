@@ -228,6 +228,8 @@ We made our initial cut out of 5mm plywood.
 
 <b> 11.28.22 - 12.2.22</b>: This week we got the bearings into the arm. This took slightly longer than expected. We drilled 2in holes into a piece of test wood, which fit the bearings very wel once the wood cooled. However, when we drilled holes of the same diameter into the arm itself, the bearings slid right through. We ended up having to glue them, and printed a small spacer to keep them from sliding towards the center of the beam. We also found that the piping was only nominally the size of the interior diameter of the bearing, and in reality was slightly narrower. The offset was a little less than 1mm in radius, so we printed inserts. Using these, we were able to friction fit the pieces on and fix the arm on its axis very well. We also cut small pieces of plywood to secure the bearings, so all we have left to do to finish the arm is attach those and stain it. 
 
+<b> 12.4.22 - 12.9.22</b>: This week we stained the arm. We also 3D printed stop collars for the pipe that will hold the counterweight plates. Because we are still waiting on our last two wheels, and we haven't gotten the weight plates yet, we began working on the sliphook mechanism. We laser cut the plate with the adjustable slot for the sliphook, which we also 3D printed. The adjustable sliphook angle is very useful, but we may have to find a way to secure it more tightly, because the bolt doesn't hold it perfectly.  
+
 
 
 # Projectile
