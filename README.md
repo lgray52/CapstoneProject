@@ -230,6 +230,6 @@ We made our initial cut out of 5mm plywood.
 
 <b> 12.4.22 - 12.9.22</b>: This week we stained the arm. We also 3D printed stop collars for the pipe that will hold the counterweight plates. Because we are still waiting on our last two wheels, and we haven't gotten the weight plates yet, we began working on the sliphook mechanism. We laser cut the plate with the adjustable slot for the sliphook, which we also 3D printed. The adjustable sliphook angle is very useful, but we may have to find a way to secure it more tightly, because the bolt doesn't hold it perfectly.  
 
-
+<b> 12.12.22 - 12.16.22</b>: We received the wheels this week and attached them to the trebuchet. They work really well and are pretty much exactly the same height as the casters so the base isn't uneven which is great. We finished up the slip hook assembly and secured the use of weights from PE. They were willing to loan us two 25 pound weights, so we now have a total of 50 pounds rather than the 40 we were expecting. This allows us to use slightly heavier projectiles. The arm is now done and we have gotten the weights and the slip hook, putting us right on our schedule of having the arm finished at the end of December and ahead of schedule for the launch and release mechanisms. 
 
 # Projectile
