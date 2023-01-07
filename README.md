@@ -184,6 +184,14 @@ The casters were attached last, and the trebuchet is very easy to move around. W
 
 <img src="images/trebuchet_wheels.jpg" height="300">
 
+Jan 3: We took the trebuchet outside to test the arm and bumper together. As we were rolling it back inside, part of the base cracked. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67174657%20(1).JPG" height="200"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67203585%20(1).JPG" height="200">
+
+Our base was made from two pieces: a large piece of high quality plywood and a piece of scrap that we found in the lab. The piece of scrap cracked along the grain despite the supports we put underneath it. We think it was because of the poor quality of the wood (which admittedly was warped). Instead of replacing the plank, we used clamps to glue the pieces back together. Because people in the lab don't seem to understand how to use or store glue, the wood glue was almost completely solid. To glue up the crack we used a combination of liquid wood glue and the glue putty that was remaining in the tube, which we used like caulk. The top side of the base (the side that is visible), now has a long white line in it which is unfortunate. We will try and cover it up in some way so that the appearance of the stain is not ruined. We also added additional supports out of planks of wood to the bottom, reinforcing both sides of the crack. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67164417.JPG" height="200"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67217665.JPG" height="200"> 
+
 ## Arm and Counterweight
 
 We had some issues with our materials which took awhile to figure out. The ball bearings we ordered were slightly too big for the axle, so we had to 3D print inserts so that the bearings would be friction fit to the pipe. The fit was very tight and we had to hammer it on. The hole cutter we used with the drill press also cut a hole that was slightly too large, so we ended up having to glue the bearings into the arm. To give the bearings extra support, we cut gussetts out of plywood and drilled them into the arm. Bottom left is the part in onshape, and bottom right is the part in use. 
@@ -197,6 +205,15 @@ Because we didn't have a substantial amount of money left in our budget, we deci
 We used D rings to attach the ropes going from the frame to the arm. Our plan is for the ropes to prevent the arm from moving 180 degrees. Once it reaches 90 degrees, the ropes will become taut and the arm will be brought back down. 
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67172609.JPG" height="300">
+
+We tested some rudimentary ideas for a bumper using materials in the lab. As of Jan 7th, the plan is to have a rubber bumper for the arm to come down on. Our hope is it will take strain off of the arm and the frame. Our initial design was using foam, as suggested by Mr. Miller. The material is shown below. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_16887809.JPG" height="200">
+
+It was not very successful. We only used duct tape to hold it down, which of course was not a long-term solution, but still we threw the idea out. The frame was still taking a lot of shock, and the arm was cutting into the foam, which did not reform. Then we tried cutting up RC car wheels that were sitting unused in the lab. That is shown below. There are clear gouges in the sliphook plate on the arm, which came from it being just slightly wider than the 2x4. We will likely have to recut it, possibly even with thicker plywood. As for the tire bumper, it was better than the foam, but still not as successful as we hoped. We may try a combination of foam and tire, or get more serious scrap tires with thicker rubber. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67232513.JPG" height="200"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67509505.JPG" height="200">
+
 
 ## Release mechanism + Sling
 
