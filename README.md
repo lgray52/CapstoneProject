@@ -214,6 +214,10 @@ It was not very successful. We only used duct tape to hold it down, which of cou
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67232513.JPG" height="200"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67509505.JPG" height="200">
 
+We ended up using two types of foam with RC car wheels stretched on top, which we then bolted onto the side of the trebuchet. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67179265.JPG" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67222017.JPG" height="300">
+
 
 ## Release mechanism + Sling
 
@@ -226,6 +230,14 @@ Our initial design in Onshape for the sliphook is pictured below. We designed it
 We made our initial cut out of 5mm plywood. 
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67163393.JPG" height="300">
+
+Unfortunately, as we were testing a bumper for the arm, it became clear that we made a poor choice in wood. The balsa got chewed up very quickly, and we decided that it would not be a good long-term solution. Because we are graduating and leaving Mr. Manning to deal with the trebuchet, we want to minimize the parts that he has to replace. We were also having issues with getting the sliphook tight enough. It turned out that the nut and bolt were just cutting into the wood, so it wasn't able to tighten as much as we wanted. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67187969.JPG" height="300"> 
+
+We ended up cutting a new sliphook plate out of metal using the waterjet. The sliphook is now very firm and stays in place. We are also considering cutting the sliphook itself out of metal instead of 3D printed plastic. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_16850689.JPG" height="300">
 
 ## Weekly Reports
 
