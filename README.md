@@ -218,6 +218,9 @@ We ended up using two types of foam with RC car wheels stretched on top, which w
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67179265.JPG" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67222017.JPG" height="300">
 
+When we tested our arm it worked very well, and appears to be nearly frictionless. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-1825.GIF" height="300">
 
 ## Release mechanism + Sling
 
