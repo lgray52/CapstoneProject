@@ -275,3 +275,9 @@ We used [this](https://ourpastimes.com/make-trebuchet-sling-pouch-8537305.html) 
 # Projectile
 
 Work in progress - documentation [here](https://github.com/lgray52/Pi-in-the-Sky_Projectile). 
+
+# Launch
+
+<b>1.26.23.</b> Today was our first launch. It went pretty smoothly compared to expectations. The ball stayed in the pouch until release, and we had minimal issues with the weights sliding off. We don't have our hose clamps yet so there is nothing keeping the weights on the arm. All of our releases were a bit late, as you can see in the drawing below. The variables we are experimenting with for launch are projectile mass, sling length, sliphook angle, and the pouch. Today we just wanted to see if it would work, but going forward we will be more exact and measure the angle of the sliphook with a protractor. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-1953.jpg" height="300"> 
