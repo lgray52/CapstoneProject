@@ -36,6 +36,10 @@
 <details>
 <summary><b><a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#projectile">Projectile</a></b></summary>
 </details>
+<details>
+<summary><b> <a href="https://github.com/lgray52/CapstoneProject#launch">Launching</a> </b></summary>
+
+</details> 
 
 ## Planning + Proposal
 
