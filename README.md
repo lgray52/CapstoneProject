@@ -315,8 +315,8 @@ This was the test that was the most successful. We think it went approximately 5
 
 <b>20°</b>
 
-<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/l3.png" height="300">
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/l4.png" height="300">
 
-This one went a shorter distance, so we definitely don't want a higher angle than 20 degrees. 
+This one went a slightly shorter distance, so we definitely don't want a higher angle than 20 degrees. 
 
 
