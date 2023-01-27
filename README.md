@@ -293,6 +293,8 @@ Work in progress - documentation [here](https://github.com/lgray52/Pi-in-the-Sky
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202023-01-27%20at%2012.38.03.png" height="150">
 
+The pink dots show where the ball was when it was released, and the pink line shows the position of the arm at the time of release in relation to the vertical. 
+
 <b>-10°</b>
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/l1.png" height="300">
