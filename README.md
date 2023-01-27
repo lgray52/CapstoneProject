@@ -288,3 +288,33 @@ Work in progress - documentation [here](https://github.com/lgray52/Pi-in-the-Sky
 <b>1.26.23.</b> Today was our first launch. It went pretty smoothly compared to expectations. The ball stayed in the pouch until release, and we had minimal issues with the weights sliding off. We don't have our hose clamps yet so there is nothing keeping the weights on the arm. All of our releases were a bit late, as you can see in the drawing below. The variables we are experimenting with for launch are projectile mass, sling length, sliphook angle, and the pouch. Today we just wanted to see if it would work, but going forward we will be more exact and measure the angle of the sliphook with a protractor. 
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-1953.jpg" height="300"> 
+
+<b>1.27.23.</b> Today we started using a compass to measure the angle of the sliphook. Below is how we quantified negative vs positive positions. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202023-01-27%20at%2012.38.03.png" height="150">
+
+<b>-10 degrees</b>
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/l1.png" height="300">
+
+At ten degrees, the ball was released much earlier than we wanted and went almost straight up. 
+
+<b>-20 degrees</b>
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/l2.png" height="300">
+
+To further decide if we wanted to use a positive angle, we made the angle more steeply negative. The ball went straight up again. 
+
+<b>13 degrees</b>
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/l3.png" height="300">
+
+This was the test that was the most successful. We think it went approximately 50 yards. 
+
+<b>20 degrees</b>
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/l3.png" height="300">
+
+This one went a shorter distance, so we definitely don't want a higher angle than 20 degrees. 
+
+
