@@ -293,25 +293,25 @@ Work in progress - documentation [here](https://github.com/lgray52/Pi-in-the-Sky
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202023-01-27%20at%2012.38.03.png" height="150">
 
-<b>-10 degrees</b>
+<b>-10°</b>
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/l1.png" height="300">
 
 At ten degrees, the ball was released much earlier than we wanted and went almost straight up. 
 
-<b>-20 degrees</b>
+<b>-20°</b>
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/l2.png" height="300">
 
 To further decide if we wanted to use a positive angle, we made the angle more steeply negative. The ball went straight up again. 
 
-<b>13 degrees</b>
+<b>13°</b>
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/l3.png" height="300">
 
 This was the test that was the most successful. We think it went approximately 50 yards. 
 
-<b>20 degrees</b>
+<b>20°</b>
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/l3.png" height="300">
 
