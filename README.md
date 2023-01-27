@@ -276,6 +276,9 @@ We used [this](https://ourpastimes.com/make-trebuchet-sling-pouch-8537305.html) 
 
 <b> 01.10.23 - 01.13.23</b>: This week we finished a more permanent bumper made from a combination of foams and the cut up tires. We then screwed this into the side of the trebuchet. Since the plate holding the slip hook had taken quite a bit of damage both from initial bumper testing and just people lifting the arm in the lab, we decided to cut a slighty thinner plate in wood originally to check the size and fit and then in metal to ensure it survives the onslaught of Mr. Manning's junior classes. We got to use the water jet, which was very cool but a little bit complicated. We also borrowed smaller weights with a 1in diameter, which fit on the pole we have a lot better than the 25lb weights we borrowed from PE. We only have 35lbs in total with the smaller weights, but we will probably test with this slightly smaller weight since we'll be launching lighter objects like tenis balls to start off with. 
 
+<b> 01.24.23 - 01.27.23</b>: Last week was the end of the quarter so we presented a summary of our progress so far this year. We also started making the sling. This week, we got 40lbsof 10lb weights, meaning the bar is a little bit more balanced and we have the weight we were expecting to launch with. We finished the sling and put grommets where the string ties on to make sure the string doesn't tear through the sling on launch. We were even able to test launch on Thursday and Friday, which was very exciting and surprisingly quite successful - our sling worked quite well and we were able to start to change the angle of the release hook and see a difference in launch distance. We will document test launches, changes we make, and results [below](https://github.com/lgray52/CapstoneProject/blob/main/README.md#launch). 
+
+
 # Projectile
 
 Work in progress - documentation [here](https://github.com/lgray52/Pi-in-the-Sky_Projectile). 
