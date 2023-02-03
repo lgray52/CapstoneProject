@@ -250,6 +250,10 @@ We ended up cutting a new sliphook plate out of metal using the waterjet. The sl
 
 We used [this](https://ourpastimes.com/make-trebuchet-sling-pouch-8537305.html) website to help us design our sling. 
 
+The final product is shown below. We may want to test different sling designs, but as of our first week of launching, this sling appears to work pretty well. For the string we used string found in the lab, and the pouch was made from a canvas tote bag that we cut up. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-2042.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-2043.jpg" height="300">
+
 ## Weekly Reports
 
 <b>10.3.22 - 10.7.22</b>: We built a 15:1 scale [prototype](https://github.com/lgray52/CapstoneProject/blob/main/README.md#prototype) out of popsicle sticks. Although we were using popsicle sticks, which don't directly translate to 2x4s, we used our onshape model to try and make the dimensions as accurate as possible. The end result launched a small projectile about 25 in. Our main issue was adjusting the slip hook so the sling would release at the correct time (at approx 45 degrees). We used a battery as the counterweight, so we tried using a slightly smaller counterweight, but this caused additional issues because it would not stay in the sling. This problem should be less of an issue with the full scale trebuchet, because we will be using cloth for the sling instead of paper, which didn't form around the projectile. 
