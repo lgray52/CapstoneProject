@@ -196,6 +196,14 @@ Our base was made from two pieces: a large piece of high quality plywood and a p
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67164417.JPG" height="200"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67217665.JPG" height="200"> 
 
+<b>2.10.23:</b> We were launching the trebuchet without the hose clamps keeping the weights in place, so they would fall off occasionally. One launch a weight fell off and onto the smaller section of the base, which caused it to crack again in a different place. We decided to replace the piece of wood instead of repairing it with glue again. We found the remaining piece of wood that came from the plywood we used for the larger piece of the base, which we used as a replacement. We reinforced the base much more strongly this time, which did cause a substantial increase in weight. We decided it was worth it to prevent future breakage. The image below shows the reinforcements we made. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-2040.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-2039.jpg" height="300">
+
+The picture below shows what it looks like from above. We will have to buy more stain to finish the base. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-2041%20(1).jpg" height="300">
+
 ## Arm and Counterweight
 
 We had some issues with our materials which took awhile to figure out. The ball bearings we ordered were slightly too big for the axle, so we had to 3D print inserts so that the bearings would be friction fit to the pipe. The fit was very tight and we had to hammer it on. The hole cutter we used with the drill press also cut a hole that was slightly too large, so we ended up having to glue the bearings into the arm. To give the bearings extra support, we cut gussetts out of plywood and drilled them into the arm. Bottom left is the part in onshape, and bottom right is the part in use. 
@@ -283,6 +291,8 @@ The final product is shown below. We may want to test different sling designs, b
 <b> 01.24.23 - 01.27.23</b>: Last week was the end of the quarter so we presented a summary of our progress so far this year. We also started making the sling. This week, we got 40lbs of 10lb weights, meaning the bar is a little bit more balanced and we have the weight we were expecting to launch with. We finished the sling and put grommets where the string ties on to make sure the string doesn't tear through the sling on launch. We were even able to test launch on Thursday and Friday, which was very exciting and surprisingly quite successful - our sling worked quite well and we were able to start to change the angle of the release hook and see a difference in launch distance. We will document test launches, changes we make, and results [below](https://github.com/lgray52/CapstoneProject/blob/main/README.md#launch). 
 
 <b> 01.30.23 - 02.03.23</b>: This week we had another slight setback, as, during a launch on Monday, one of the plates slipped off of the bar and hit the weaker wood piece of the base causing it to split. It did so in an entirely new place, so our repair work definitely held up. However, since this was the second time we decided to replace it altogether with a piece of actual, unwarped plywood. We picked out and cut a replacement piece of plywood and attached it to the base with a reinforced system that will resist outward pressure along the diagonal braces. This only set us back a couple of days, and we are ready once again to launch starting next week, so long as we get the weight clamps which will prevent any sliding of the weights. 
+
+<b> 02.05.23</b>: This week we mostly just worked on launching. We did test launching while removing the rope that stops the full rotation of the arm. We also discovered that there is no risk of the arm slamming down on either side of the base. After launching it just oscillates back and forth. During the block period we wheeled the trebuchet down to the track so we could use the lines on the field to guage the distance the projectile was travelling. The trebuchet consistently launches a lacrosse ball 45 yards. The replacement piece in the base seems much more sturdy than what we have before, but it is slightly heavier to carry. We decided that we will take a break from optimizing the trebuchet to design a desk-sized trebuchet for in-class demonstrations. It will offer us an opportunity to test out a different design, like a bucket counterweight or a flywheel. The goal is for it to launch a marble. 
 
 
 # Projectile
