@@ -41,8 +41,8 @@
 
 </details> 
 
-<summary><b><a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#desk-trebuchet">Desk Trebuchet</a> </b></summary>
 <details>
+ <summary><b><a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#desk-trebuchet">Desk Trebuchet</a> </b></summary>
 
 </details>
 
@@ -299,6 +299,8 @@ The final product is shown below. We may want to test different sling designs, b
 
 <b> 02.05.23</b>: This week we mostly just worked on launching. We did test launching while removing the rope that stops the full rotation of the arm. We also discovered that there is no risk of the arm slamming down on either side of the base. After launching it just oscillates back and forth. During the block period we wheeled the trebuchet down to the track so we could use the lines on the field to guage the distance the projectile was travelling. The trebuchet consistently launches a lacrosse ball 45 yards. The replacement piece in the base seems much more sturdy than what we have before, but it is slightly heavier to carry. We decided that we will take a break from optimizing the trebuchet to design a desk-sized trebuchet for in-class demonstrations. It will offer us an opportunity to test out a different design, like a bucket counterweight or a flywheel. The goal is for it to launch a marble. 
 
+<b> 02.13.23 - 02.17.23</b>: This week we began to design and create the desk trebuchet. While we initially planned on a whip counterweight, we instead settled on trying a flywheel design. We finished our initial design in onshape and cut out the different parts from acryllic. We have our frame done and will begin working on a tiny sling next week. 
+
 
 # Projectile
 
@@ -345,5 +347,15 @@ This one went a slightly shorter distance, so we definitely don't want a higher 
 
 ### Onshape Design 
 
-We decided after a lull in productivity that we would test out another possible design on a smaller scale. We initially wanted to try a whip trebuchet design that we saw on youtube, but we realized it would be extremely difficult to do. 
+We decided after a lull in productivity that we would test out another possible design on a smaller scale. We initially wanted to try a whip trebuchet design that we saw on youtube, but we realized it would be extremely difficult to do. Our goal is for the desk trebuchet to launch a marble which is about 5g. In order to optimize launch the counterweight needs to be around 100x the mass of the projectile. On the scale we were dealing with, it was impossible to get 500g in a small enough size to fit on the arm. The 500g weights in the physics room were huge and would have made it impossible to launch. Instead we decided to go with a flywheel design. From an educational standpoint, it offers a great example of both rotational motion and energy storage. We also thought it would be easier to do because it removes the need for such a large counterweight. 
+
+The design we landed on was based on a [video](https://www.youtube.com/watch?v=RVT5i4nhIGs&scrlybrkr=31fda7cd) we found on youtube. The man who built the flywheel trebuchet was the same person who made the whip trebuchet that we initially wanted to try. The idea behind the flywheel trebuchet is storing rotational kinetic energy in the wheel by spinning it. The energy for launch comes not from gravitational potential energy, but from rotational kinetic.
+
+Below is our initial design in Onshape. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/minitrebuchet.PNG" height="300"> 
+
+We decided that it was a good opportunity to have some more fun with the design, as we had initially hoped for the bigger trebuchet. We opted for clear, 6mm acryllic for the frame. Below is a picture of flames we designed to put on the sides, which we cut from transparent red, orange, and yellow acryllic. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/flames.PNG" height="300"> 
 
