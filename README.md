@@ -299,7 +299,7 @@ The final product is shown below. We may want to test different sling designs, b
 
 <b> 02.05.23</b>: This week we mostly just worked on launching. We did test launching while removing the rope that stops the full rotation of the arm. We also discovered that there is no risk of the arm slamming down on either side of the base. After launching it just oscillates back and forth. During the block period we wheeled the trebuchet down to the track so we could use the lines on the field to guage the distance the projectile was travelling. The trebuchet consistently launches a lacrosse ball 45 yards. The replacement piece in the base seems much more sturdy than what we have before, but it is slightly heavier to carry. We decided that we will take a break from optimizing the trebuchet to design a desk-sized trebuchet for in-class demonstrations. It will offer us an opportunity to test out a different design, like a bucket counterweight or a flywheel. The goal is for it to launch a marble. 
 
-<b> 02.13.23 - 02.17.23</b>: This week we began to design and create the desk trebuchet. While we initially planned on a whip counterweight, we instead settled on trying a flywheel design. We finished our initial design in onshape and cut out the different parts from acryllic. We have our frame done and will begin working on a tiny sling next week. 
+<b> 02.13.23 - 02.17.23</b>: This week we began to design and create the desk trebuchet. While we initially planned on a whipper counterweight, we instead settled on trying a flywheel design. We finished our initial design in onshape and cut out the different parts from acrylic. We have our frame done and will begin working on a tiny sling next week. 
 
 
 # Projectile
@@ -360,4 +360,10 @@ Below is our initial design in Onshape.
 We decided that it was a good opportunity to have some more fun with the design, as we had initially hoped for the bigger trebuchet. We opted for clear, 6mm acryllic for the frame. Below is a picture of flames we designed to put on the sides, which we cut from transparent red, orange, and yellow acryllic. 
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/flames.PNG" height="300"> 
+
+### Physical design
+
+We cut the trebuchet out of 6mm clear acrylic. The arm is screwed onto the fly wheel, and a small amount of mass is fixed to the wheel end of the arm across from the long throwing arm. This moves the center of mass to the rotation point, meaning that gravity provides little to no torque on the arm as it is spinning - this is the primary priinciple of the flywheel trebuchet as it does not rely on transfer of gravitational energy to kinetic energy, instead using on the rotational kinetic energy of the spinning arm. The pictures below show the trebuchet with only one set flames. 
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/deskTrebuchet1.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/deskTrebuchet2.jpg" height="300">
 
