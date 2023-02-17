@@ -345,9 +345,11 @@ This one went a slightly shorter distance, so we definitely don't want a higher 
 
 ## Desk Trebuchet
 
-### Onshape Design 
+### Overview
 
 We decided after a lull in productivity that we would test out another possible design on a smaller scale. We initially wanted to try a whip trebuchet design that we saw on youtube, but we realized it would be extremely difficult to do. Our goal is for the desk trebuchet to launch a marble which is about 5g. In order to optimize launch the counterweight needs to be around 100x the mass of the projectile. On the scale we were dealing with, it was impossible to get 500g in a small enough size to fit on the arm. The 500g weights in the physics room were huge and would have made it impossible to launch. Instead we decided to go with a flywheel design. From an educational standpoint, it offers a great example of both rotational motion and energy storage. We also thought it would be easier to do because it removes the need for such a large counterweight. 
+
+### Onshape Design 
 
 The design we landed on was based on a [video](https://www.youtube.com/watch?v=RVT5i4nhIGs&scrlybrkr=31fda7cd) we found on youtube. The man who built the flywheel trebuchet was the same person who made the whip trebuchet that we initially wanted to try. The idea behind the flywheel trebuchet is storing rotational kinetic energy in the wheel by spinning it. The energy for launch comes not from gravitational potential energy, but from rotational kinetic.
 
