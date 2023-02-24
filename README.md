@@ -301,6 +301,7 @@ The final product is shown below. We may want to test different sling designs, b
 
 <b> 02.13.23 - 02.17.23</b>: This week we began to design and create the desk trebuchet. While we initially planned on a whipper counterweight, we instead settled on trying a flywheel design. We finished our initial design in onshape and cut out the different parts from acrylic. We have our frame done and will begin working on a tiny sling next week. 
 
+<b> 02.20.23 - 02.24.23 </b>: This week we finished the frame of the mini trebuchet, including the sick flames on the side. We weighted the flywheel arm so that it rotatates smoothly without being stopped by gravity, and put hot glue dots on either side of the arm to keep it from slipping. Additionally, we designed and printed small parts for a pulley system with a hand crank to wind up the wheel to launch speed. We had to make a couple fixes, including re-drilling the holes that hold the main axle since they were inexplicably printed slightly crooked. Next week we plan to finish a tiny sling and figure out a release system. 
 
 # Projectile
 
