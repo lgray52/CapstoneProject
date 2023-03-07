@@ -370,3 +370,14 @@ We cut the trebuchet out of 6mm clear acrylic. The arm is screwed onto the fly w
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/deskTrebuchet1.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/deskTrebuchet2.jpg" height="300">
 
+### Pulley system
+
+The rotation relies on a pulley system with a hand crank. We 3D printed the pulley parts and fixed them to an additional axle with a rubber band connector. We had to reprint both since it turned out we needed deeper grooves compared to our original design to keep the pulley belt in place and we needed a little bit more space between the top piece of the pulley and the arm since the belt kept hitting the screws keeping the arm and the wheel together. 
+
+<b> Pulley system: </b>
+
+<img src="images/mini_treb_side.jpg" height="300"> <img src="images/mini_treb_front.jpg" height="300">
+
+<b> In action: </b>
+
+<img src="images/pulley_system_gif.gif" height="400">
