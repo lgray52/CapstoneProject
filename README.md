@@ -90,6 +90,8 @@ First meeting: 09.07.22
 * 4x steel eyebolt with nut for lifting
 * Rubber sheet/piece of rubber
 
+[Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
+
 # Trebuchet
 ## Onshape Design 
 [Link to Onshape document](https://cvilleschools.onshape.com/documents/b8765a261cadb44dcc0a336f/w/460002218d581b442cca053e/e/edba871aaf70a30a2c2fe965?renderMode=0&uiState=632dd17a483c184e28f44d74)
@@ -110,7 +112,6 @@ First meeting: 09.07.22
 * Reference for [axle](https://www.lowes.com/pd/Southland-Pipe-3-4-in-x-36-in-150-PSI-Threaded-Galvanized-Pipe/3357860)
 * Video release [speed tracker](https://physlets.org/tracker/)
 
-[Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
 
 ## Prototype
 
@@ -313,9 +314,13 @@ The final product is shown below. We may want to test different sling designs, b
 
 <b> 02.27.23 - 03.03.23 </b>: We printed the pulley system and modified it this week. It works fairly well but we did have to reprint the parts since the walls holding the pulley belt itself in were a little bit too low to start and the pulley belt kept flying off the system. We printed spacers to keep the pulley's axle from wobbling so much, making the rotation a little smoother. We also made a teeny tiny sling.
 
+[Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
+
 # Projectile
 
 Work in progress - documentation [here](https://github.com/lgray52/Pi-in-the-Sky_Projectile). 
+
+[Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
 
 # Launch
 
@@ -353,8 +358,9 @@ This was the test that was the most successful. We think it went approximately 5
 
 This one went a slightly shorter distance, so we definitely don't want a higher angle than 20 degrees. 
 
+[Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
 
-## Desk Trebuchet
+# Desk Trebuchet
 
 ### Overview
 
@@ -389,3 +395,5 @@ The rotation relies on a pulley system with a hand crank. We 3D printed the pull
 <b> In action: </b>
 
 <img src="images/pulley_system_gif.gif" height="400">
+
+[Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
