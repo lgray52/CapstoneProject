@@ -4,7 +4,7 @@
 ## Table of Contents
 
 <details>
-<summary><b> <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#planning">Planning + Proposal</a> </b></summary>
+<summary><b> <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#planning--proposal">Planning + Proposal</a> </b></summary>
 
 
 <br><a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#notes">☢ Notes</a>
