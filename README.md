@@ -44,6 +44,14 @@
 <details>
  <summary><b><a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#desk-trebuchet">Desk Trebuchet</a> </b></summary>
 
+ <br><a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#overview">☢ Overview</a>
+ 
+ <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#onshape-design-1">☢ OnShape Design</a>
+ 
+ <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#physical-design">☢ Physical Design</a>
+ 
+ <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#pulley-system">☢ Pulley System</a>
+ 
 </details>
 
 ## Planning + Proposal
