@@ -314,6 +314,8 @@ The final product is shown below. We may want to test different sling designs, b
 
 <b> 02.27.23 - 03.03.23 </b>: We printed the pulley system and modified it this week. It works fairly well but we did have to reprint the parts since the walls holding the pulley belt itself in were a little bit too low to start and the pulley belt kept flying off the system. We printed spacers to keep the pulley's axle from wobbling so much, making the rotation a little smoother. We also made a teeny tiny sling.
 
+<b> 03.06.23 - 03.10.23</b>: This week we got the pulley system working 100% of the time. We did a little bit of research on various release systems, especially those used in multiple rotation trebuchets - unfortunately there's not a lot of information on MRTs because they're notoriously inefficient. However we did come up with an idea for a release system relying on winding up string into a coil based on this research. Once the string gets short enough, it will pull the pin out of a small strap securing the projectile in the sling, allowing the sling to release. We decided on this rather than a pure pin release because it should allow the sling to release at the same angle every time. 
+
 [Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
 
 # Projectile
