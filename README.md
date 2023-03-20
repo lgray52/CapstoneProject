@@ -28,7 +28,7 @@
 
 <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#arm-and-counterweight">☢ Arm + Counterweight</a>
 
-<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#release-mechanism--sling">☢ Release Mechanism + Sling</a>
+<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#sling">☢ Release Mechanism + Sling</a>
 
 <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#weekly-reports">☢ Weekly Report</a>
 
