@@ -403,6 +403,10 @@ The rotation relies on a pulley system with a hand crank. We 3D printed the pull
 
 ### Release system
 
+<b> Sling </b>
+
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/image_67177985.JPG" height="300"> 
+
 The design we based the mini trebuchet off of was very complicated, particularly in the release system. 
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202023-03-20%20at%2011.25.15%20AM.png" height="300">
@@ -419,6 +423,8 @@ We decided we would have to design a different method of release. We knew that t
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-9410.jpg" height="600"> 
 
-Our first design, design 1.0 in the diagram, was to wrap the string around a bobbin as the flywheel rotated. This did not work, because the string continually wrapped around the axis instead of the bobbin. Another critical aspect of the design is that the string needs to become taut at an angle that pulls the pin straight out (or as straight as we can get it). The string wound better when we moved the bobbin closer to the flywheel, but it wouldn't work from a release standpoint. We also tried putting a hole in the side of the bobbin so the string had less room to move. This also did not work. 
+Our first design (1.0 in the diagram) was to wrap the string around a bobbin as the flywheel rotated. This did not work, because the string continually wrapped around the axis instead of the bobbin. Another critical aspect of the design is that the string needs to become taut at an angle that pulls the pin straight out (or as straight as we can get it). The string wound better when we moved the bobbin closer to the flywheel, but it wouldn't work from a release standpoint. We also tried putting a hole in the side of the bobbin so the string had less room to move. This also did not work. 
 
-The idea for our second design came from watching a video of a sewing machine winding a bobbin. We decided to try putting one of the bobbins straight up instead of on its side
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/singer-bobbin-winding-illustration-hand-held.jpg" height="200"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202023-03-20%20at%2012.20.39%20PM.png" height="200"> 
+
+The idea for our second design (2.0)came from watching [a video](https://www.youtube.com/watch?v=XMPx9aF5eg4) of a sewing machine winding a bobbin. We decided to try putting one of the bobbins straight up instead of on its side. 
