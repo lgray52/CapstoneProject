@@ -284,7 +284,7 @@ The pin trigger release was based on [this](https://www.youtube.com/watch?v=JZtZ
 
 <img src="images/bolt_system1.jpg" height="300"> <img src="images/bolt_system2.jpg" height="300"> <img src="images/bolt_system3.jpg" height="300">
 
-<img src="images/pin_gif1.gif" height="400"> <img src="images/pin_gif2.gif" height="400"> <img src="images/pin_gif3.gif" height="400">
+<img src="images/pin_gif1.gif" height="350"> <img src="images/pin_gif2.gif" height="350"> <img src="images/pin_gif3.gif" height="350">
 
 ## Weekly Reports
 
