@@ -412,11 +412,7 @@ For the sling we used the same design as for the larger trebuchet.
 
 The [design](https://www.youtube.com/watch?v=RVT5i4nhIGs&scrlybrkr=31fda7cd) we based the mini trebuchet off of was very complicated, particularly in the release system. An arm comes out when a switch is pressed which knocks the the sliphook to release the sling. We could not replicate this on a much smaller scale. 
 
-<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202023-03-20%20at%2011.25.15%20AM.png" height="300">
-
-<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202023-03-20%20at%2011.25.23%20AM.png" height="300"> 
-
-
+<img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202023-03-20%20at%2011.25.15%20AM.png" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202023-03-20%20at%2011.25.23%20AM.png" height="300"> 
 
 We decided we would have to design a different method of release. We knew that the release couldn't be manual, because the launch would be inconsistent and hard to time correctly. Our plan is to use a pin that releases the projectile when the string becomes taut. We can measure the length of the string so that, given it starts in the same position every time, the pin will be pulled at the same time each launch. The pictures below show the saddle that keeps the sling from releasing. We used a nail we found in the lab as a release pin. 
 
