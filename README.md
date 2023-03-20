@@ -28,7 +28,7 @@
 
 <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#arm-and-counterweight">☢ Arm + Counterweight</a>
 
-<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#sling">☢ Release Mechanism + Sling</a>
+<a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#release-mechanism--sling">☢ Release Mechanism + Sling</a>
 
 <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#weekly-reports">☢ Weekly Report</a>
 
@@ -282,7 +282,9 @@ The final product is shown below. We may want to test different sling designs, b
 
 The pin trigger release was based on [this](https://www.youtube.com/watch?v=JZtZ3B_hxvs) video. A pin slides through three eyebolts, locking the arm down until the pin is pulled out from a safe distance. In order to minimize any risk of the pin slipping out prematurely, two of the eyebolts are connected to the base to create two pull down points and keeping the pin from pushing up at an angle like it would if it was only supported by one eyebolt in the base and the one on the arm. 
 
-** Pictures here **
+<img src="images/bolt_system1.jpg" height="300"> <img src="images/bolt_system2.jpg" height="300"> <img src="images/bolt_system3.jpg" height="300">
+
+<img src="images/pin_gif1.gif" height="400"> <img src="images/pin_gif2.gif" height="400"> <img src="images/pin_gif3.gif" height="400">
 
 ## Weekly Reports
 
