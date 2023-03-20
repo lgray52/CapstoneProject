@@ -399,3 +399,14 @@ The rotation relies on a pulley system with a hand crank. We 3D printed the pull
 <img src="images/pulley_system_gif.gif" height="400">
 
 [Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
+
+### Release system
+
+The design we based the mini trebuchet off of was very complicated, particularly in the release system. 
+
+
+We decided we would have to design a different method of release. We knew that the release couldn't be manual, because the launch would be inconsistent and hard to time correctly. Our plan is to use a pin that releases the projectile when the string becomes taut. We can measure the length of the string so that, given it starts in the same position every time, the pin will be pulled at the same time each launch. 
+
+Our first design, design 1.0 in the diagram, was to wrap the string around a bobbin as the flywheel rotated. This did not work, because the string continually wrapped around the axis instead of the bobbin. Another critical aspect of the design is that the string needs to become taut at an angle that pulls the pin straight out (or as straight as we can get it). The string wound better when we moved the bobbin closer to the flywheel, but it wouldn't work from a release standpoint. We also tried putting a hole in the side of the bobbin so the string had less room to move. This also did not work. 
+
+The idea for our second design came from watching a video of a sewing machine winding a bobbin. We decided to try putting one of the bobbins straight up instead of on its side
