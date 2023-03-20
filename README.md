@@ -51,6 +51,7 @@
  <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#physical-design">☢ Physical Design</a>
  
  <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#pulley-system">☢ Pulley System</a>
+ 
  <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#release-system">☢ Release System</a>
  
 </details>
