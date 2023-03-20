@@ -278,6 +278,12 @@ The final product is shown below. We may want to test different sling designs, b
 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-2042.jpg" height="300"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/IMG-2043.jpg" height="300">
 
+### Pin release
+
+The pin trigger release was based on [this](https://www.youtube.com/watch?v=JZtZ3B_hxvs) video. A pin slides through three eyebolts, locking the arm down until the pin is pulled out from a safe distance. In order to minimize any risk of the pin slipping out prematurely, two of the eyebolts are connected to the base to create two pull down points and keeping the pin from pushing up at an angle like it would if it was only supported by one eyebolt in the base and the one on the arm. 
+
+** Pictures here **
+
 ## Weekly Reports
 
 <b>10.3.22 - 10.7.22</b>: We built a 15:1 scale [prototype](https://github.com/lgray52/CapstoneProject/blob/main/README.md#prototype) out of popsicle sticks. Although we were using popsicle sticks, which don't directly translate to 2x4s, we used our onshape model to try and make the dimensions as accurate as possible. The end result launched a small projectile about 25 in. Our main issue was adjusting the slip hook so the sling would release at the correct time (at approx 45 degrees). We used a battery as the counterweight, so we tried using a slightly smaller counterweight, but this caused additional issues because it would not stay in the sling. This problem should be less of an issue with the full scale trebuchet, because we will be using cloth for the sling instead of paper, which didn't form around the projectile. 
