@@ -377,7 +377,7 @@ This one went a slightly shorter distance, so we definitely don't want a higher 
 
 <b>02.07.23.</b> We took the trebuchet to the track field today to see how far it launches in terms of yards.
 
-*picture*
+<img src="images/field_launch.gif" height="400">
 
 It ended up launching about 50-55 yards, or half the length of the field. We used a lacrosse ball, which did bounce and roll a little bit further, so the final position we found the ball from launch point was probably about 60 yards away. 
 
