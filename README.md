@@ -374,6 +374,24 @@ This was the test that was the most successful. We think it went approximately 5
 
 This one went a slightly shorter distance, so we definitely don't want a higher angle than 20 degrees. 
 
+
+<b>02.07.23.</b> We took the trebuchet to the track field today to see how far it launches in terms of yards.
+
+*picture*
+
+It ended up launching about 50-55 yards, or half the length of the field. We used a lacrosse ball, which did bounce and roll a little bit further, so the final position we found the ball from launch point was probably about 60 yards away. 
+
+
+<b>04.18.23.</b> We decided to have some fun with the trebuchet and launch apples. They launched very well and splattered very nicely. With some more weight on the trebuchet, it could probably be used to launch slightly larger fruits/vegetables/squashes, a usage which some teachers have taken interest in - like Mr. Davis' suggestion of using it for a pumpkin chuckin. Additionally, the apples launched quite far, maybe 50 yards.
+
+<img src="images/apple_launch.gif" height="400">
+
+<b>Apple remains:</b> 
+
+The apples we launched were thoroughly exploded on impact. Here are some pictures of the larger suriving pieces of the first apple we launched, whose pieces ended up as much as 10 feet apart. This impact force is important to consider for the projectile. 
+
+<img src="images/apple_launch1.jpg" height="300"> <img src="images/apple_launch2.jpg" height="300">
+
 [Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
 
 # Desk Trebuchet
