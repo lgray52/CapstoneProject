@@ -387,7 +387,6 @@ It ended up launching about 50-55 yards, or half the length of the field. We use
 <img src="images/apple_launch.gif" height="400">
 
 <b>Apple remains:</b> 
-
 The apples we launched were thoroughly exploded on impact. Here are some pictures of the larger suriving pieces of the first apple we launched, whose pieces ended up as much as 10 feet apart. This impact force is important to consider for the projectile. 
 
 <img src="images/apple_launch1.jpg" height="300"> <img src="images/apple_launch2.jpg" height="300">
