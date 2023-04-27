@@ -334,6 +334,8 @@ The pin trigger release was based on [this](https://www.youtube.com/watch?v=JZtZ
 
 <b> 04.17.23 - 04.21.23</b>: We made a lot of progress this week with both the big and small trebuchets. Both of us were out Thursday and Friday for the band-orchestra trip, but on Monday and Tuesday we were able to accomplish a lot. We took the big trebuchet out to do some test launches with different projectiles, including apples (which exploded on impact with the round - very fun).  Additionally, we had a major breakthrough with the little trebuchet, as Harriet had the amazing idea to drill a new release pin hole at an angle. This makes it much easier for the pin to be pulled out even if it gets wound around the axis rather than the bobbin. This has increased the successful launch rate from maybe 20% to about 90% or higher. Now, the main barrier remaining is achieving a consistent angle of launch, which we hope to control with the length of the string. 
 
+<b> 04.24.23 - 04.27.23>/b>: The little trebuchet is working a lot better since we drilled the diagonal hole - we are still working on setting it up so that the release point is constant and launches with a good angle. It does launch from around the same angle each time, but fine tuning this has proved quite difficult since it is just a matter of moving the knot in the end of the string by a tiny fraction and taking slo-mo videos to figure out how the release was. We will continue to fine tune next week. This Friday we also started our end-of-year presentation on the trebuchet, which we will continue to work on. 
+
 [Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
 
 # Projectile
