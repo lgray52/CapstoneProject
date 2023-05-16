@@ -467,7 +467,7 @@ The idea for our second design (2.0)came from watching [a video](https://www.you
 
 At this point, the flywheel trebuchet had gotten really complicated, and though it was working more consistently there was a lot left to iron out. Since Mr. Manning is leaving earlier than expected because of the baby, we decided to redirect ourselves slightly and try a new type of trebuchet arm, a whipper trebuchet. Whipper trebuchets are unique because they do almost a full rotation before they release, and they store a lot more energy by having the swinging counterweight start above the arm. They also need a much lower ratio of mass between the counterweight and the projectile to launch further than a traditional hanging counterweight trebuchet. The whipper trebuchet gets its name from the way it whips around the axle and launches at extremely high speeds.
 
-*image here*
+<img src="images/whipper.PNG" height="300">
 
 <b> Construction </b>
 
