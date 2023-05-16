@@ -54,6 +54,8 @@
  
  <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#release-system">☢ Release System</a>
  
+ <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#whipper-model">☢ Whipper Trebuchet Model</a>
+ 
 </details>
 
 ## Planning + Proposal
