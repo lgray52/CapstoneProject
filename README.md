@@ -460,3 +460,23 @@ Our first design (1.0 in the diagram) was to wrap the string around a bobbin as 
 <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/singer-bobbin-winding-illustration-hand-held.jpg" height="200"> <img src="https://github.com/lgray52/CapstoneProject/blob/main/images/Screenshot%202023-03-20%20at%2012.20.39%20PM.png" height="200"> 
 
 The idea for our second design (2.0)came from watching [a video](https://www.youtube.com/watch?v=XMPx9aF5eg4) of a sewing machine winding a bobbin. We decided to try putting one of the bobbins straight up instead of on its side. The two bobbins together keep the string from coiling around the axis as the flywheel turns. 
+
+[Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
+
+### Whipper model
+
+At this point, the flywheel trebuchet had gotten really complicated, and though it was working more consistently there was a lot left to iron out. Since Mr. Manning is leaving earlier than expected because of the baby, we decided to redirect ourselves slightly and try a new type of trebuchet arm, a whipper trebuchet. Whipper trebuchets are unique because they do almost a full rotation before they release, and they store a lot more energy by having the swinging counterweight start above the arm. They also need a much lower ratio of mass between the counterweight and the projectile to launch further than a traditional hanging counterweight trebuchet. The whipper trebuchet gets its name from the way it whips around the axle and launches at extremely high speeds.
+
+*image here*
+
+<b> Construction </b>
+
+We built the new arm out of the same clear thick acrylic. It is sized to fit on the same axle that the flywheel arm was built for. For the hanging counterweight, we used 187g of washers. We found this enormous mega washer which the hanging arm length ended up having to be based on since it is so large, but it did add over 80g of mass to the hanging arms. The release system is the same as a traditional trebuchet, with a slip hook and standard sling. This made it a lot easier than the highly complex flywheel release system. 
+
+<b> Launching </b>
+
+With the building done, we got straight to launching. To launch the trebuchet, the sling needs to be loaded and the counterweight needs to be lifted over the marble in the sling. The whole arm needs to be placed in the direction you want it to launch. 
+
+Our first launches were hard to measure since we were in the back. However, once we moved to the front and were able to launch in a straight line down the hallway, we were able to see that the marble was already launching 10-15 ft without any fine tuning. We did have to change and adjust the angle of slip hook, but once we were able to get the ratio of the length and angle right, the mini trebuchet consistently launches 15-20 ft on flat ground. 
+
+[Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
