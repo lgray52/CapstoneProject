@@ -481,4 +481,6 @@ With the building done, we got straight to launching. To launch the trebuchet, t
 
 Our first launches were hard to measure since we were in the back. However, once we moved to the front and were able to launch in a straight line down the hallway, we were able to see that the marble was already launching 10-15 ft without any fine tuning. We did have to change and adjust the angle of slip hook, but once we were able to get the ratio of the length and angle right, the mini trebuchet consistently launches 15-20 ft on flat ground. 
 
+<img src="images/mini_trebuchet_launch.gif" height="300">
+
 [Back to Table of Contents](https://github.com/lgray52/CapstoneProject/blob/main/README.md#table-of-contents)
