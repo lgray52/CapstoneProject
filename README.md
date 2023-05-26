@@ -345,8 +345,8 @@ The pin trigger release was based on [this](https://www.youtube.com/watch?v=JZtZ
 Jump to:
 * [Planning](https://github.com/lgray52/CapstoneProject/blob/main/README.md#projectile-planning)
 * [CAD](https://github.com/lgray52/CapstoneProject/blob/main/README.md#cad)
-* [Code]((https://github.com/lgray52/CapstoneProject/blob/main/README.md#code)
-* [Physical design and assembly]((https://github.com/lgray52/CapstoneProject/blob/main/README.md#physical)
+* [Code](https://github.com/lgray52/CapstoneProject/blob/main/README.md#code)
+* [Physical design and assembly](https://github.com/lgray52/CapstoneProject/blob/main/README.md#physical)
 
 ### Projectile Planning
 
