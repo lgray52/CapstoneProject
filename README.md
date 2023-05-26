@@ -35,7 +35,17 @@
   </details>
 <details>
 <summary><b><a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#projectile">Projectile</a></b></summary>
+ 
+ <br> <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#projectile-planning">☢ Planning</a>
+ 
+ <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#cad">☢ CAD</a>
+ 
+ <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#code">☢ Code</a>
+ 
+ <a href="https://github.com/lgray52/CapstoneProject/blob/main/README.md#physical">☢ Physical</a>
+ 
 </details>
+
 <details>
 <summary><b> <a href="https://github.com/lgray52/CapstoneProject#launch">Launching</a> </b></summary>
 
